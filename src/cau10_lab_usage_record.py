@@ -22,3 +22,5 @@ print(f"Dien nang: {dien_nang_kwh:.3f} kWh")
 print(f"Chi phi: {chi_phi:.2f} VND")
 print(f"Tren 60 phut: {tren_60_phut}")
 print(f"Ghi nhan luc: {thoi_diem_hien_tai}")
+
+print("Trang thai ghi nhan: Thanh cong")
